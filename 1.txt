@@ -1,0 +1,3 @@
+D:\phpstudy_pro\WWW\eshop         工作区
+git add .  		把文件放到暂存区
+git commit -m"备注"	把暂存区文件提交到分支(默认master)
